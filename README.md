@@ -1,5 +1,9 @@
 # ERD database cli
 
+
+https://github.com/user-attachments/assets/8c5986df-f98f-4595-b212-20822ab4f0d8
+
+
 ## Table of Contents
 
 1. [Description](#Description)
